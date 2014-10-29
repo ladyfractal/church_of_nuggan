@@ -1,0 +1,2 @@
+_JAVA_OPTS="$_JAVA_OPTS -javaagent:/var/lib/openshift/545033555004461f8900034a/app-root/newrelic/newrelic.jar"
+
